@@ -1,0 +1,62 @@
+.ml-auto {
+    margin-left: auto;
+
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #212529;
+    box-sizing: border-box;
+    color: rgba(255, 255, 255, 0.733);
+    position: relative;
+}
+
+.myPhoto {
+    position: relative;
+    top: auto;
+    bottom: auto;
+}
+.bg-skill {
+    background-color: rgb(47, 53, 70);
+}
+#web {
+    visibility: visible;
+    position: absolute;
+    }
+#programming {
+    visibility: hidden;
+    position: absolute;
+}
+#tools {
+    visibility: hidden;
+    position: absolute;
+}
+.my-skill {
+    position: relative;
+    top: auto;
+    bottom: auto;
+}
+
+.contact-me {
+    position: relative;
+    top: auto;
+} 
+.bg-body {
+    background-color: #212529;
+
+}
+@media only screen and (min-width: 768px) {
+    #hello {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #hello {
+        font-size: 3em;
+    }
+}
